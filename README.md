@@ -1,10 +1,8 @@
-# ptexamples
+# AG-Wirth Project Template
 
-This R package showcases how RStudio project templates can be defined and
-exposed within R packages. See
-https://rstudio.github.io/rstudio-extensions/rstudio_project_templates.html for
-more information.
+This package provides students of the AG-Wirth with a unified project template
+for their work.
 
-Install this package with:
-
-    devtools::install_github("rstudio/ptexamples")
+```
+devtools::install_github("cpfaff/"ag-wirth-project-template")
+```

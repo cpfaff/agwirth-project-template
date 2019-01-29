@@ -1,9 +1,9 @@
-Package: ptexamples
-Title: Example RStudio Project Templates
-Author: Kevin Ushey
-Maintainer: Kevin Ushey <kevin@rstudio.com>
+Package: agwirth-project-template 
+Title: Project template for the AG-Wirth
+Author: Claas-Thido Pfaff 
+Maintainer: Claas-Thido Pfaff <claas-thido.pfaff@uni-leipzig.de>
 Version: 0.0.1
-Description: Example package showcasing how RStudio project templates are defined.
+Description: Project template for students at the AG-Wirth.
 Depends: R (>= 3.3.2)
 License: GPL (>= 2)
 Encoding: UTF-8

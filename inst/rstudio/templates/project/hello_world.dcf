@@ -1,25 +1,12 @@
-Binding: hello_world
-Title: Example Project Template
+Binding: agwirth-project-template 
+Title: AG-Wirth project template 
 OpenFiles: INDEX
 
-Parameter: check
-Widget: CheckboxInput
-Label: Checkbox Input
-Default: On
-Position: left
-
-Parameter: select
-Widget: SelectInput
-Label: Select Input
-Fields: Field A, Field B, Field C
-Default: Field B
-Position: left
-
-Parameter: text
+Parameter: title 
 Widget: TextInput
 Label: Text Input
-Default: Hello, world!
-Position: right
+Default: CHANGEME!
+Position: left 
 
 Parameter: file
 Widget: FileInput
