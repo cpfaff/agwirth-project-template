@@ -1,4 +1,4 @@
-Package: agwirth-project-template 
+Package: agwirth.project.template 
 Title: Project template for the AG-Wirth
 Author: Claas-Thido Pfaff 
 Maintainer: Claas-Thido Pfaff <claas-thido.pfaff@uni-leipzig.de>
