@@ -4,5 +4,5 @@ This package provides students of the AG-Wirth with a unified project template
 for their work.
 
 ```
-devtools::install_github("cpfaff/"ag-wirth-project-template")
+devtools::install_github("cpfaff/ag-wirth-project-template")
 ```
