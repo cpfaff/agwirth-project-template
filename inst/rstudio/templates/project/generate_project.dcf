@@ -8,7 +8,7 @@ Label: Text Input
 Default: CANGEME!
 Position: left 
 
-Parameter: title 
+Parameter: abstract 
 Widget: TextInput
 Label: Text Input
 Default: CHANGEME!
@@ -17,5 +17,5 @@ Position: left
 Parameter: file
 Widget: FileInput
 Label: File Input
-Default: ~/<degree:msc,bsc,phd><start.date:YYYY.MM><your.name>
-Position: right
+Default: "~/<degree:msc,bsc,phd><start.date:YYYY.MM><your.name>"
+Position: left 
