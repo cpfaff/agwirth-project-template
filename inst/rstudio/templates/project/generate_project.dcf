@@ -1,6 +1,12 @@
 Binding: agwirth-project-template 
 Title: AG-Wirth project template 
-OpenFiles: INDEX
+OpenFiles: MyProject 
+
+Parameter: title 
+Widget: TextInput
+Label: Text Input
+Default: CANGEME!
+Position: left 
 
 Parameter: title 
 Widget: TextInput
@@ -11,5 +17,5 @@ Position: left
 Parameter: file
 Widget: FileInput
 Label: File Input
-Default: ~/
+Default: ~/<degree:msc,bsc,phd><start.date:YYYY.MM><your.name>
 Position: right
